@@ -1,76 +1,77 @@
 
-×ÔÈ»¶ÎÂä  
+è‡ªç„¶æ®µè½  
 ```java
-×ÔÈ»¶ÎÂä  
-×ÔÈ»¶ÎÂä
+è‡ªç„¶æ®µè½  
+è‡ªç„¶æ®µè½
 ```
 ```java
-×ÔÈ»¶ÎÂä
+è‡ªç„¶æ®µè½
 
-×ÔÈ»¶ÎÂä
+è‡ªç„¶æ®µè½
 ```
-#h1
-##h2#
-######h6######
-ÒýÓÃËõ½øË³Î»¼Ì³Ð£¬Ã¿´Î4¸ö¿Õ¸ñ»ò1¸öÖÆ±í·û
->ÒýÓÃ
->>ÒýÓÃÖÐµÄÒýÓÃ¡£
-ÁÐ±íËõ½øË³Î»¼Ì³Ð£¬Ã¿´Î4¸ö¿Õ¸ñ»ò1¸öÖÆ±í·û¡£
+# h1
+## h2#
+###### h6######
+å¼•ç”¨ç¼©è¿›é¡ºä½ç»§æ‰¿ï¼Œæ¯æ¬¡4ä¸ªç©ºæ ¼æˆ–1ä¸ªåˆ¶è¡¨ç¬¦
+>å¼•ç”¨
+>>å¼•ç”¨ä¸­çš„å¼•ç”¨ã€‚
+åˆ—è¡¨ç¼©è¿›é¡ºä½ç»§æ‰¿ï¼Œæ¯æ¬¡4ä¸ªç©ºæ ¼æˆ–1ä¸ªåˆ¶è¡¨ç¬¦ã€‚
 - Red
 - Green
 - Blue
 1.Bird
 2.McHale
 3.Parish
-ÐÐÊ×³öÏÖÊý×Ö-Ó¢Óï¾äµã-¿Õ°×£¬Òª±ÜÃâÕâÑùµÄ×´¿ö£¬ÔÚ¾äµãÇ°Ãæ¼ÓÉÏ·´Ð±¸Ü£º
-1986\. What a great year.
-·Ö¸ôÏß£¬²»ÒªÓÐ±ðµÄ×Ö·û¡£
+
+è¡Œé¦–å‡ºçŽ°æ•°å­—-è‹±è¯­å¥ç‚¹-ç©ºç™½ï¼Œè¦é¿å…è¿™æ ·çš„çŠ¶å†µï¼Œåœ¨å¥ç‚¹å‰é¢åŠ ä¸Šåæ–œæ ï¼š  
+1986\. What a great year.  
+åˆ†éš”çº¿ï¼Œä¸è¦æœ‰åˆ«çš„å­—ç¬¦ã€‚  
 * * *
 ***
 *****
 - - -
 ----------
 ___
-Ç¿µ÷£¬×óÓÒ²»ÄÜÓÐ¿Õ¸ñ¡£
-**Ç¿µ÷**
-__Ç¿µ÷__
-~~É¾³ýÏß~~
-*ÇãÐ±*
-_ÇãÐ±_
+å¼ºè°ƒï¼Œå·¦å³ä¸èƒ½æœ‰ç©ºæ ¼ã€‚  
+**å¼ºè°ƒ**  
+__å¼ºè°ƒ__  
+~~åˆ é™¤çº¿~~  
+*å€¾æ–œ*  
+_å€¾æ–œ_  
 linein code `linein code`.
 ```java
 linein code `linein code`.
 ```
 ![runoob logo](http://static.runoob.com/images/runoob-logo.png)
-![ÎÒµÄÏàÆ¬](images/ÎÒµÄÏàÆ¬.jpg)
-ÓÃ[logo][id001]×÷ÎªÁ´½ÓÍøÖ·±äÁ¿¡£È»ºóÔÚÎÄµµ½áÎ²Îª±äÁ¿¸³ÖµÁ´½Ó¡£
+![æˆ‘çš„ç›¸ç‰‡](images/æˆ‘çš„ç›¸ç‰‡.jpg)
+ç”¨[logo][id001]ä½œä¸ºé“¾æŽ¥ç½‘å€å˜é‡ã€‚ç„¶åŽåœ¨æ–‡æ¡£ç»“å°¾ä¸ºå˜é‡èµ‹å€¼é“¾æŽ¥ã€‚
 [logo]:http://static.runoob.com/images/runoob-logo.png
 ```java
 ![runoob logo](http://static.runoob.com/images/runoob-logo.png)
-![ÎÒµÄÏàÆ¬](images/ÎÒµÄÏàÆ¬.jpg)
-ÓÃ[logo][id001]×÷ÎªÁ´½ÓÍøÖ·±äÁ¿¡£È»ºóÔÚÎÄµµ½áÎ²Îª±äÁ¿¸³ÖµÁ´½Ó¡£
+![æˆ‘çš„ç›¸ç‰‡](images/æˆ‘çš„ç›¸ç‰‡.jpg)
+ç”¨[logo][id001]ä½œä¸ºé“¾æŽ¥ç½‘å€å˜é‡ã€‚ç„¶åŽåœ¨æ–‡æ¡£ç»“å°¾ä¸ºå˜é‡èµ‹å€¼é“¾æŽ¥ã€‚
 [id001]:http://static.runoob.com/images/runoob-logo.png
 ```
-|  ±íÍ·   | ±íÍ·  |
+|  è¡¨å¤´   | è¡¨å¤´  |
 |  ----  | ----  |
-| µ¥Ôª¸ñ  | µ¥Ôª¸ñ |
-| µ¥Ôª¸ñ  | µ¥Ôª¸ñ |
+| å•å…ƒæ ¼  | å•å…ƒæ ¼ |
+| å•å…ƒæ ¼  | å•å…ƒæ ¼ |
 
-| ×ó¶ÔÆë | ÓÒ¶ÔÆë | ¾ÓÖÐ¶ÔÆë |
+| å·¦å¯¹é½ | å³å¯¹é½ | å±…ä¸­å¯¹é½ |
 | :-----| ----: | :----: |
-| µ¥Ôª¸ñ | µ¥Ôª¸ñ | µ¥Ôª¸ñ |
+| å•å…ƒæ ¼ | å•å…ƒæ ¼ | å•å…ƒæ ¼ |
 ```java
-|  ±íÍ·   | ±íÍ·  |
+|  è¡¨å¤´   | è¡¨å¤´  |
 |  ----  | ----  |
-| µ¥Ôª¸ñ  | µ¥Ôª¸ñ |
-| µ¥Ôª¸ñ  | µ¥Ôª¸ñ |
+| å•å…ƒæ ¼  | å•å…ƒæ ¼ |
+| å•å…ƒæ ¼  | å•å…ƒæ ¼ |
 
-| ×ó¶ÔÆë | ÓÒ¶ÔÆë | ¾ÓÖÐ¶ÔÆë |
+| å·¦å¯¹é½ | å³å¯¹é½ | å±…ä¸­å¯¹é½ |
 | :-----| ----: | :----: |
-| µ¥Ôª¸ñ | µ¥Ôª¸ñ | µ¥Ôª¸ñ |
+| å•å…ƒæ ¼ | å•å…ƒæ ¼ | å•å…ƒæ ¼ |
 ```
-<u>´øÏÂ»®ÏßÎÄ±¾</u>
-ÕÛµþ×¢ÊÍ
+<u>å¸¦ä¸‹åˆ’çº¿æ–‡æœ¬</u>
+æŠ˜å æ³¨é‡Š
 
 ```
 :joy:
@@ -78,12 +79,13 @@ linein code `linein code`.
 :joy:
 ```
 
-²»ÔÚ Markdown ·¶Î§µÄ£¬µ«ÔÚHTML5¡¢CSS3µÈÖ®ÄÚµÄ±êÇ©£¬¶¼¿ÉÒÔÖ±½Ó×«Ð´¡£Ä¿Ç°Ö§³ÖÓÐ£º<kbd> <b> <i> <em> <sup> <sub> <br>
-Ê¹ÓÃ <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> ÖØÆôµçÄÔ¡£
+ä¸åœ¨ Markdown èŒƒå›´çš„ï¼Œä½†åœ¨HTML5ã€CSS3ç­‰ä¹‹å†…çš„æ ‡ç­¾ï¼Œéƒ½å¯ä»¥ç›´æŽ¥æ’°å†™ã€‚ç›®å‰æ”¯æŒæœ‰ï¼š<kbd> <b> <i> <em> <sup> <sub> <br>
+    
+ä½¿ç”¨ <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> é‡å¯ç”µè„‘ã€‚
 ```java
-Ê¹ÓÃ <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> ÖØÆôµçÄÔ¡£
+ä½¿ç”¨ <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> é‡å¯ç”µè„‘ã€‚
 ```
-ÊýÑ§¹«Ê½
+æ•°å­¦å…¬å¼
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
@@ -102,113 +104,113 @@ $$
 ${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
 $$
 ```
-1. ºáÏòÁ÷³ÌÍ¼Ô´Âë¸ñÊ½£º
+1. æ¨ªå‘æµç¨‹å›¾æºç æ ¼å¼ï¼š
 ```mermaid
 graph LR
-A[·½ÐÎ] -->B(Ô²½Ç)
-    B --> C{Ìõ¼þa}
-    C -->|a=1| D[½á¹û1]
-    C -->|a=2| E[½á¹û2]
-    F[ºáÏòÁ÷³ÌÍ¼]
+A[æ–¹å½¢] -->B(åœ†è§’)
+    B --> C{æ¡ä»¶a}
+    C -->|a=1| D[ç»“æžœ1]
+    C -->|a=2| E[ç»“æžœ2]
+    F[æ¨ªå‘æµç¨‹å›¾]
 ```
-2. ÊúÏòÁ÷³ÌÍ¼Ô´Âë¸ñÊ½£º
+2. ç«–å‘æµç¨‹å›¾æºç æ ¼å¼ï¼š
 ```mermaid
 graph TD
-A[·½ÐÎ] --> B(Ô²½Ç)
-    B --> C{Ìõ¼þa}
-    C --> |a=1| D[½á¹û1]
-    C --> |a=2| E[½á¹û2]
-    F[ÊúÏòÁ÷³ÌÍ¼]
+A[æ–¹å½¢] --> B(åœ†è§’)
+    B --> C{æ¡ä»¶a}
+    C --> |a=1| D[ç»“æžœ1]
+    C --> |a=2| E[ç»“æžœ2]
+    F[ç«–å‘æµç¨‹å›¾]
 ```
-3. ±ê×¼Á÷³ÌÍ¼Ô´Âë¸ñÊ½£º
+3. æ ‡å‡†æµç¨‹å›¾æºç æ ¼å¼ï¼š
 ```flow
-st=>start: ¿ªÊ¼¿ò
-op=>operation: ´¦Àí¿ò
-cond=>condition: ÅÐ¶Ï¿ò(ÊÇ»ò·ñ?)
-sub1=>subroutine: ×ÓÁ÷³Ì
-io=>inputoutput: ÊäÈëÊä³ö¿ò
-e=>end: ½áÊø¿ò
+st=>start: å¼€å§‹æ¡†
+op=>operation: å¤„ç†æ¡†
+cond=>condition: åˆ¤æ–­æ¡†(æ˜¯æˆ–å¦?)
+sub1=>subroutine: å­æµç¨‹
+io=>inputoutput: è¾“å…¥è¾“å‡ºæ¡†
+e=>end: ç»“æŸæ¡†
 st->op->cond
 cond(yes)->io->e
 cond(no)->sub1(right)->op
 ```
-4. ±ê×¼Á÷³ÌÍ¼Ô´Âë¸ñÊ½£¨ºáÏò£©£º
+4. æ ‡å‡†æµç¨‹å›¾æºç æ ¼å¼ï¼ˆæ¨ªå‘ï¼‰ï¼š
 ```flow
-st=>start: ¿ªÊ¼¿ò
-op=>operation: ´¦Àí¿ò
-cond=>condition: ÅÐ¶Ï¿ò(ÊÇ»ò·ñ?)
-sub1=>subroutine: ×ÓÁ÷³Ì
-io=>inputoutput: ÊäÈëÊä³ö¿ò
-e=>end: ½áÊø¿ò
+st=>start: å¼€å§‹æ¡†
+op=>operation: å¤„ç†æ¡†
+cond=>condition: åˆ¤æ–­æ¡†(æ˜¯æˆ–å¦?)
+sub1=>subroutine: å­æµç¨‹
+io=>inputoutput: è¾“å…¥è¾“å‡ºæ¡†
+e=>end: ç»“æŸæ¡†
 st(right)->op(right)->cond
 cond(yes)->io(bottom)->e
 cond(no)->sub1(right)->op
 ```
-5. UMLÊ±ÐòÍ¼Ô´ÂëÑùÀý£º
+5. UMLæ—¶åºå›¾æºç æ ·ä¾‹ï¼š
 ```sequence
-¶ÔÏóA->¶ÔÏóB: ¶ÔÏóBÄãºÃÂð?£¨ÇëÇó£©
-Note right of ¶ÔÏóB: ¶ÔÏóBµÄÃèÊö
-Note left of ¶ÔÏóA: ¶ÔÏóAµÄÃèÊö(ÌáÊ¾)
-¶ÔÏóB-->¶ÔÏóA: ÎÒºÜºÃ(ÏìÓ¦)
-¶ÔÏóA->¶ÔÏóB: ÄãÕæµÄºÃÂð£¿
+å¯¹è±¡A->å¯¹è±¡B: å¯¹è±¡Bä½ å¥½å—?ï¼ˆè¯·æ±‚ï¼‰
+Note right of å¯¹è±¡B: å¯¹è±¡Bçš„æè¿°
+Note left of å¯¹è±¡A: å¯¹è±¡Açš„æè¿°(æç¤º)
+å¯¹è±¡B-->å¯¹è±¡A: æˆ‘å¾ˆå¥½(å“åº”)
+å¯¹è±¡A->å¯¹è±¡B: ä½ çœŸçš„å¥½å—ï¼Ÿ
 ```
-6. UMLÊ±ÐòÍ¼Ô´Âë¸´ÔÓÑùÀý£º
+6. UMLæ—¶åºå›¾æºç å¤æ‚æ ·ä¾‹ï¼š
 ```sequence
-Title: ±êÌâ£º¸´ÔÓÊ¹ÓÃ
-¶ÔÏóA->¶ÔÏóB: ¶ÔÏóBÄãºÃÂð?£¨ÇëÇó£©
-Note right of ¶ÔÏóB: ¶ÔÏóBµÄÃèÊö
-Note left of ¶ÔÏóA: ¶ÔÏóAµÄÃèÊö(ÌáÊ¾)
-¶ÔÏóB-->¶ÔÏóA: ÎÒºÜºÃ(ÏìÓ¦)
-¶ÔÏóB->Ð¡Èý: ÄãºÃÂð
-Ð¡Èý-->>¶ÔÏóA: ¶ÔÏóBÕÒÎÒÁË
-¶ÔÏóA->¶ÔÏóB: ÄãÕæµÄºÃÂð£¿
-Note over Ð¡Èý,¶ÔÏóB: ÎÒÃÇÊÇÅóÓÑ
+Title: æ ‡é¢˜ï¼šå¤æ‚ä½¿ç”¨
+å¯¹è±¡A->å¯¹è±¡B: å¯¹è±¡Bä½ å¥½å—?ï¼ˆè¯·æ±‚ï¼‰
+Note right of å¯¹è±¡B: å¯¹è±¡Bçš„æè¿°
+Note left of å¯¹è±¡A: å¯¹è±¡Açš„æè¿°(æç¤º)
+å¯¹è±¡B-->å¯¹è±¡A: æˆ‘å¾ˆå¥½(å“åº”)
+å¯¹è±¡B->å°ä¸‰: ä½ å¥½å—
+å°ä¸‰-->>å¯¹è±¡A: å¯¹è±¡Bæ‰¾æˆ‘äº†
+å¯¹è±¡A->å¯¹è±¡B: ä½ çœŸçš„å¥½å—ï¼Ÿ
+Note over å°ä¸‰,å¯¹è±¡B: æˆ‘ä»¬æ˜¯æœ‹å‹
 participant C
-Note right of C: Ã»ÈËÅãÎÒÍæ
+Note right of C: æ²¡äººé™ªæˆ‘çŽ©
 ```
-7. UML±ê×¼Ê±ÐòÍ¼ÑùÀý£º
+7. UMLæ ‡å‡†æ—¶åºå›¾æ ·ä¾‹ï¼š
 ```mermaid
-%% Ê±ÐòÍ¼Àý×Ó,-> Ö±Ïß£¬-->ÐéÏß£¬->>ÊµÏß¼ýÍ·
+%% æ—¶åºå›¾ä¾‹å­,-> ç›´çº¿ï¼Œ-->è™šçº¿ï¼Œ->>å®žçº¿ç®­å¤´
   sequenceDiagram
-    participant ÕÅÈý
-    participant ÀîËÄ
-    ÕÅÈý->ÍõÎå: ÍõÎåÄãºÃÂð£¿
-    loop ½¡¿µ¼ì²é
-        ÍõÎå->ÍõÎå: Óë¼²²¡Õ½¶·
+    participant å¼ ä¸‰
+    participant æŽå››
+    å¼ ä¸‰->çŽ‹äº”: çŽ‹äº”ä½ å¥½å—ï¼Ÿ
+    loop å¥åº·æ£€æŸ¥
+        çŽ‹äº”->çŽ‹äº”: ä¸Žç–¾ç—…æˆ˜æ–—
     end
-    Note right of ÍõÎå: ºÏÀí Ê³Îï <br/>¿´Ò½Éú...
-    ÀîËÄ-->>ÕÅÈý: ºÜºÃ!
-    ÍõÎå->ÀîËÄ: ÄãÔõÃ´Ñù?
-    ÀîËÄ-->ÍõÎå: ºÜºÃ!
+    Note right of çŽ‹äº”: åˆç† é£Ÿç‰© <br/>çœ‹åŒ»ç”Ÿ...
+    æŽå››-->>å¼ ä¸‰: å¾ˆå¥½!
+    çŽ‹äº”->æŽå››: ä½ æ€Žä¹ˆæ ·?
+    æŽå››-->çŽ‹äº”: å¾ˆå¥½!
 ```
-8. ¸ÊÌØÍ¼ÑùÀý£º
+8. ç”˜ç‰¹å›¾æ ·ä¾‹ï¼š
 ```mermaid
-%% Óï·¨Ê¾Àý
+%% è¯­æ³•ç¤ºä¾‹
         gantt
         dateFormat  YYYY-MM-DD
-        title Èí¼þ¿ª·¢¸ÊÌØÍ¼
-        section Éè¼Æ
-        ÐèÇó                      :done,    des1, 2014-01-06,2014-01-08
-        Ô­ÐÍ                      :active,  des2, 2014-01-09, 3d
-        UIÉè¼Æ                     :         des3, after des2, 5d
-    Î´À´ÈÎÎñ                     :         des4, after des3, 5d
-        section ¿ª·¢
-        Ñ§Ï°×¼±¸Àí½âÐèÇó                      :crit, done, 2014-01-06,24h
-        Éè¼Æ¿ò¼Ü                             :crit, done, after des2, 2d
-        ¿ª·¢                                 :crit, active, 3d
-        Î´À´ÈÎÎñ                              :crit, 5d
-        Ë£                                   :2d
-        section ²âÊÔ
-        ¹¦ÄÜ²âÊÔ                              :active, a1, after des3, 3d
-        Ñ¹Á¦²âÊÔ                               :after a1  , 20h
-        ²âÊÔ±¨¸æ                               : 48h
+        title è½¯ä»¶å¼€å‘ç”˜ç‰¹å›¾
+        section è®¾è®¡
+        éœ€æ±‚                      :done,    des1, 2014-01-06,2014-01-08
+        åŽŸåž‹                      :active,  des2, 2014-01-09, 3d
+        UIè®¾è®¡                     :         des3, after des2, 5d
+    æœªæ¥ä»»åŠ¡                     :         des4, after des3, 5d
+        section å¼€å‘
+        å­¦ä¹ å‡†å¤‡ç†è§£éœ€æ±‚                      :crit, done, 2014-01-06,24h
+        è®¾è®¡æ¡†æž¶                             :crit, done, after des2, 2d
+        å¼€å‘                                 :crit, active, 3d
+        æœªæ¥ä»»åŠ¡                              :crit, 5d
+        è€                                   :2d
+        section æµ‹è¯•
+        åŠŸèƒ½æµ‹è¯•                              :active, a1, after des3, 3d
+        åŽ‹åŠ›æµ‹è¯•                               :after a1  , 20h
+        æµ‹è¯•æŠ¥å‘Š                               : 48h
 ```
 ***
-windows×ÊÔ´¹ÜÀíÆ÷
-? Æ¥Åä 0 ¸ö»ò 1 ¸ö×Ö·û£¬* Æ¥Åä0¸ö»ò¶à¸ö×Ö·û¡£
+windowsèµ„æºç®¡ç†å™¨
+? åŒ¹é… 0 ä¸ªæˆ– 1 ä¸ªå­—ç¬¦ï¼Œ* åŒ¹é…0ä¸ªæˆ–å¤šä¸ªå­—ç¬¦ã€‚
 ***
-^ ÎªÆ¥Åä¿ªÊ¼Î»ÖÃ¡£
-[0-9]+Æ¥Åä¶à¸öÊý×Ö£º[]×÷ÎªÕûÌå£¬ÏÞ¶¨£¬-Á¬½Ó´Ó0µ½9£¬[0-9] Æ¥ÅäÒ»¸öÊý×Ö£¬+ Æ¥ÅäÒ»¸ö»òÕß¶à¸ö¡£
-abc$Æ¥Åä×ÖÄ¸ abc ²¢ÒÔ abc ½áÎ²£¬$ ÎªÆ¥Åä½áÊøÎ»ÖÃ¡£
+^ ä¸ºåŒ¹é…å¼€å§‹ä½ç½®ã€‚
+[0-9]+åŒ¹é…å¤šä¸ªæ•°å­—ï¼š[]ä½œä¸ºæ•´ä½“ï¼Œé™å®šï¼Œ-è¿žæŽ¥ä»Ž0åˆ°9ï¼Œ[0-9] åŒ¹é…ä¸€ä¸ªæ•°å­—ï¼Œ+ åŒ¹é…ä¸€ä¸ªæˆ–è€…å¤šä¸ªã€‚
+abc$åŒ¹é…å­—æ¯ abc å¹¶ä»¥ abc ç»“å°¾ï¼Œ$ ä¸ºåŒ¹é…ç»“æŸä½ç½®ã€‚
 ^[0-9]+abc$
-^[a-z0-9_-]{3,15}$  {3,15}$µ¹ÊýÏÞ¶¨×Ö·ûÊý£¬>=3£¬<=15¡£a-z»ò0-9»ò_»ò-¡£¿ÉÒÔÆ¥Åä `runoob``runoob1``run-oob``run_oob`£¬ µ«²»Æ¥Åä `ru`£¬ÒòÎªÈ±£¬¼´Ð¡ÓÚ `3` ¸öÎÞ·¨Æ¥Åä¡£Ò²²»Æ¥Åä `runoob$`£¬ ÒòÎª°üº¬ÌØÊâ×Ö·û¡£
+^[a-z0-9_-]{3,15}$  {3,15}$å€’æ•°é™å®šå­—ç¬¦æ•°ï¼Œ>=3ï¼Œ<=15ã€‚a-zæˆ–0-9æˆ–_æˆ–-ã€‚å¯ä»¥åŒ¹é… `runoob``runoob1``run-oob``run_oob`ï¼Œ ä½†ä¸åŒ¹é… `ru`ï¼Œå› ä¸ºç¼ºï¼Œå³å°äºŽ `3` ä¸ªæ— æ³•åŒ¹é…ã€‚ä¹Ÿä¸åŒ¹é… `runoob$`ï¼Œ å› ä¸ºåŒ…å«ç‰¹æ®Šå­—ç¬¦ã€‚
