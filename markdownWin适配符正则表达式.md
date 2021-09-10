@@ -101,7 +101,7 @@ words[^1] which have footer explain texts.
 
 ```java
 words[^1] which have footer explain texts.
-
+只github无效。
 [^1]: There are footer explain texts.
 ```
 
@@ -148,7 +148,7 @@ words[^1] which have footer explain texts.
 ```java
 :joy:
 ```
-不在 Markdown 范围的，但在HTML5、CSS3等之内的标签，都可以直接撰写。目前支持有：<kbd> <b> <i> <em> <sup> <sub> <br>
+不在 Markdown 范围的，但在HTML5、CSS3等之内的标签，直接撰写,目前支持有：<kbd> <b> <i> <em> <sup> <sub> <br>
 
 使用<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>重启电脑。  
 ```java
@@ -274,6 +274,7 @@ Note right of C: 没人陪我玩
         压力测试                               :after a1  , 20h
         测试报告                               : 48h
 ```
+  
 windows资源管理器  
 `?`匹配 0 个或 1 个字符，`*`匹配0个或多个字符。
 office  
@@ -285,4 +286,3 @@ abc$匹配字母 abc 并以 abc 结尾，$为匹配结束位置。
 `^[a-z0-9_-]{3,15}$`  
 {3,15}$倒数限定字符数，>=3，<=15。`a-z`或`0-9`或-。可以匹配 `runoob` `runoob1` `run-oob` `run_oob`， 但不匹配 `ru`，因为缺，即小于 3个无法匹配。也不匹配 `runoob$`， 因为包含特殊字符。
 
-[ http://static.runoob.com/images/runoob-logo.png ]: 
