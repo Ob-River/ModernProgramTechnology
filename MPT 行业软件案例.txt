@@ -1,0 +1,302 @@
+>商业行业软件，不偏向研究用，实验室用。非小众。数据源，数据库，教程，软件，插件，论坛/社区，服务商，资源站，。
+figma
+maya：人物
+3ds max：场景
+matlab
+markdown
+Photoshop：泛图片后期
+blender：
+UE虚幻引擎：
+grasshopper：
+arcGIS：地理
+rhino：建模
+InDesign：出版物排版
+Typroa：所见即所得markdown。
+lantu：设计元素标注
+【排水管网模拟】管网评估、内涝淹没、LID等
+InfoWorks ICM（城基行业占有率最高的商业软件）；
+SWMM（影响力最大的免费软件）以及基于其开发的PCSWMM、XPSWMM、InfoSWMM等；
+MIKE URBAN CS；
+SOBEK Urban；
+【河道模拟】洪水演进、河道水质等
+MIKE 11/21（水利行业占有率最高的商业软件）；
+HEC-RAS（影响力最大的免费软件）；
+InfoWorks ICM；
+SOBEK Rural；
+【湖泊/河口/海岸模拟】湖泊水质、海岸水动力等
+Delft3D；
+MIKE 21/3；
+【地下水模拟】
+MODFLOW；
+FEFLOW；
+MIKE SHE；
+【供水管网模拟】
+EPANET；
+InfoWorks WS Pro；
+MIKE URBAN WD；
+WaterCAD/GEMS；
+H2ONET；
+【污水处理模拟】
+BioWin；
+GPS-X；
+WEST++；
+【海绵城市设计辅助模拟】
+XPDrainage；
+【通信网络】
+OPNET OMNET
+GNU radio，软件无线电
+【电子】
+NI Multisim，电路设计
+protel，电路设计
+pspice，模拟电路
+cadence，电路板绘制及仿真
+【机械CAD】
+AUTOCAD 2D建模，3D建模
+UG： 3D建模，机械制造
+CATIA：3D建模，机械制造
+Pro/E，3D建模，机械制造，模拟
+SolidWorks，3D建模，机械制造，模拟
+【机械CAE】
+ADAMS：运动学，动力学分析
+HyperMesh：强大的有限元前处理软件
+【结构工程】
+ANSYS，融结构、流体、电场、磁场、声场分析于一体的大型通用有限元分析软件。
+【建筑】
+PKPM，建筑设计CAD
+xsteel，钢结构详图设计软件
+【结构工程】
+MIDAS
+【暖通】 
+天正暖通
+【光学设计】
+Zemax，光学设计软件
+Oslo Edu，免费版的光学设计软件
+【数学】
+Mathematica，符号运算
+Sagemath，开源的数学软件，基于Python
+Maple
+Lingo，求解优化问题
+Concorde，求解TSP问题
+SPSS，统计
+【心理学】
+E-Prime
+Lisrel
+【化学】
+ChemOffice，是世界上最优秀的桌面化学软件，化学结构绘图、分子模型及仿真、化学信息搜寻整合系统
+【分子生物学】
+Primer Premier，PCR或测序引物以及杂交探针的设计，评估
+【空气动力学】
+Fluent
+Gambit
+Tecplot
+【自动控制】
+NI LabView，虚拟仪器+可视化编程
+【环境工程】
+水处理设施模拟软件：Biowin、WEST
+城市雨水径流模拟软件：SWMM（EPA官方）用得最多的软件
+XRD分析软件：JADE
+【脑成像】
+matlab下spm包；FSL；AFNI；Freesurfer
+MCU软件开发Keil和IAR
+FPGA开发有ISE和VScode（Vivado不行），电路设计有Protel，PADS，OrCAD，芯片设计有Synopsys，Cadence，另外Matlab做各种仿真
+Sourcetree：图形化git版本控制
+Source Insight，源码分析和阅读查看
+Jetbrains：IDEA写java
+Altium Designer，画原理图以及PCB板
+Realterm：串口调试
+Audition：
+Axure RP：画原型图
+Keli C51：单片机
+Premiere：剪辑视频
+After Effects：视频后期特效。
+Media Encoder：视频渲染。
+SolidWorks：机械方面的建模
+Illustrator：矢量图绘制
+BarTender：零售商品条码标签打印软件
+davinci：影视后期。
+ansys应力分析：ACE
+cimatron3D：
+DACS：船舶海工与钢结构行业精度控制。
+Factset：金融
+Bloomberg：商业经济。
+canva：稿定设计
+迅捷视频剪辑：
+5 Nastran/UGNASA 已在使用的CAE分析软件
+6 Pam crash 专门的碰撞研究软件
+7 Moldflow 模流分析软件
+8 AutoForm, UG PWD 钣金冲压分析软件
+9 Autodesk AutoCAD P&ID / UG PID管路设计软件
+10 ug moldwizard 模具设计软件
+11 AUTOCAD ELECTRICAL 电气系统设计软件
+12 UG Imageware , Copy CAD , RapidForm, catia 逆向软件
+泵行业软件
+1 PUMP CAD 二维用于过流部件的水力设计
+PUMP CAD 三维(水力设计)
+2 PUMP CAD 三维(结构设计)用于泵结构部件以及总装图的设计
+3 CFTURBO 专业的叶轮及蜗壳设计软件
+4 Fluent CFD 分析软件
+5 CFXCFD 分析软件
+6 Eventech TPump 水泵测试软件(水力性能测试, 气蚀测试, 空载测试, 转堵测试等)
+7 Eventech XPump 泵选型软件(电子样本 , 参数选型 ,
+API610选型)
+8 Eventech SPump 泵行业项目管理软件(售前管理,选型管理)
+9 AutoCAD UG PROE等CAD 设计软件
+工艺系统专业（包括化学工程、工业炉、热工、安全专业）
+
+1 PRO-II 稳态工艺流程模拟（物料平衡，单元分析等）
+Aspen Plus
+2 Aspen Polymer Plus 聚合物工艺流程模拟
+3 Aspen Dynamics & Custom Modeler 动态工艺流程模拟与建模
+4 Aspen Properties 纯组分及油品物性计算软件
+5 Aspen HX-NET 换热网络优化
+6 FRI 塔设计、校核计算（填料塔，筛板塔，穿流塔等）
+7 HTRI 换热器模拟、设计与校核计算
+HTFS
+8 INPLANT 管网水力学计算
+9 Visual Flow 泄压系统的模拟计算与设计
+10 HEXTRAN 换热网络模拟计算
+11 CFX 流体力学仿真
+12 Aspen Zyqad 工艺设计数据库管理（PFD，设备表，数据表等）
+13 SP P&ID 智能P&ID
+VPE P&ID
+14 Vantage PE工程数据库系统
+15 GRTMPS/G4 通用流程工业线性规划系统
+16 H/CAMS 原油分析管理系统（包括Chevron原油数据库）
+17 Aspen PIMS 通用流程工业线性规划系统
+18 REF-SIM 汽油和BTX装置的操作，可用于连续重整、半再生重整和再生重整等不同专利工艺
+19 HCR-SIM/HTR-SIM 加氢裂化模拟程序,加氢精制模拟程序
+20 AMSIM 用于模拟从气体或液化石油气中脱出H2S和CO2的醇胺装置的稳态过程模拟器
+21 SULSIM 优化硫化装置的运行，识别工艺反应的热力学以及动力学特征
+22 FRNC-5PC 通用加热炉模拟
+REFORM-3PC 烃蒸汽转化炉模拟
+FURCRAK-PC 加热炉、裂解炉、转化炉传热计算
+23 SAFETI和 LEAK 安全评估软件（陆地）
+24 NEPTUNE OFFSHORE 安全评估软件（海上）
+25 Aspen FlareNet 火炬管网模拟计算软件
+26 SNAMER 蒸汽管网分析监测系统。解决复杂蒸汽管网及压力超过10MPaG的蒸汽管网的温度降和阻力降的计算。
+27 CCSOS 催化裂化单元反应－再生系统的模拟优化程序
+28 CCDIS 催化裂化和延迟焦化单元的塔设计、核算程序
+29 TRAYS Package 浮阀、舌形、筛孔和泡罩塔板的工艺计算软件包
+30 HENMFD 多功能换热网络设计软件包
+31 HEATNT 换热网络核算程序
+32 FINEXCH 内波纹外螺纹管换热器的计算
+33 PHAWorks HAZOP分析
+34 Shell FRED 安全分析
+35 Shepherd Desktop (including PIPA 3.1) 安全分析
+36 COMOS 工艺设计数据库管理（PFD，设备表，数据表等）
+配管专业（包括材料应力专业、水道专业）
+1 PDS
+PDMS 三维工厂设计系统
+SP 3D
+2 DrawizPDS 平面图自动标注
+E-Draw
+3 SP Review
+VPD Review 工厂模型浏览与校审
+JetStream
+4 CAESAR II 按ANSI B31等规范进行管系的静态（线性和非线性）和动态应力分析
+5 ANSYS 非线性动态和静态有限元分析(包括流体计算功能)
+6 FE Pipe 管道及压力容器有限元局部应力分析
+7 Vantage PE 工程数据库系统
+8 I-Sketch ISO图
+9 Spoolgen 管道加工图生成
+容器专业和机械专业
+1 SW6
+PV Desktop 钢制压力容器设计计算(GB 150标准)
+LANSYS
+2 Aspen Teams 管壳式换热器设计计算(ASME,TEMA标准)
+3 Pvelite 压力容器整体及部件设计计算 (ASME, UBC,BC,BS5500,TEMA,WRC107,ANSI 标准)
+4 TANK 储罐设计、分析、评估软件（API650, API653标准）
+5 ANSYS 压力容器局部应力计算
+6 ABAQUS 求解线性和非线性问题，包括结构的静态、动态、热和电反应等
+7 FE Pipe 管道及压力容器有限元局部应力分析
+8 CFX 流体力学模拟
+9 CFX Tascflow 透平通道的全负荷分析
+10 Solidedge 3D CAD程序, 具有零件建模、构建装配件建模、板金件建模、焊接建件建模等功能。
+11 DyRoBes 转子轴承系统动力学模型分析软件
+12 Agile Engineering Design System（AXIAL，AXCAD） 一维透平设计软件，能给出轴流压缩机、透平机械的预测性能，支持亚音速、超音速透平的设计，并支持多种工作介质。透平机械设计分析软件，能提供叶片的几何造型并为流场分析建立模型。
+13 Autodesk Inventor Professional(AIP) 机械二维、三维CAD
+14 Mathcad CAD工具
+15 材料腐蚀数据库（金属/非金属） 材料腐蚀数据库（金属/非金属）
+电气专业
+1 EDSA 电气系统设计和计算软件（ANSI标准）
+2 ETAP 电气系统设计和计算软件（ANSI标准）
+3 EES 大型电力电气工程设计
+4 PDS(EE_RACEWAY)/SP3D 电缆桥架设计软件
+PDMS
+5 Vantage PE 工程数据库系统
+6 AUTOCAD ELECTRICAL 2008 电气系统设计软件
+仪表专业
+1 SP Instrumentation (INTOOLS)集成的仪表设计和数据库管理
+2 PDS（EE_RACEWAY）/SP3D电缆桥架设计软件
+PDMS
+3 Vantage PE工程数据库系统
+4 WINPCCAD仪表计算机辅助设计系统
+结构专业
+1 PKPM 钢筋砼的分析与设计，包括框排架，框-剪，独立基础，条形基础，楼梯，剪力墙，弹性地基梁板，高层结构，钢筋砼基本构件，箱形基础，桩基等
+2 ANSYS 静态与动态有限元分析
+3 STAAD PRO 钢结构三维计算（美国，日本标准）
+4 STAAD SSDD 中国标准钢结构计算
+5 STAAD PRO.Foundation 基础计算
+6 PDS (Frameworks Plus) 钢结构三维设计
+7 StruCad 钢结构制造图CAD软件
+8 GTSTRUDL 针对结构静力、动力计算的空间模型分析软件
+9 Tekla Sterctures 炉子专业使用
+10 STEEL 钢结构CAD设计软件
+11 TSSD 探索者结构工程计算机辅助设计绘图软件
+12 SAP2000 通用结构分析与设计软件
+13 Etabs 集成化的建筑结构建模、分析和设计软件
+14 SAFE 集成化的楼板、基础底板和扩展式基础设计软件
+分析化验专业与环境保护专业
+1 ELAA 大气环境影响评价的一般计算、绘图
+2 EIAN 根据环评导则推荐的模式预测各种噪声源对声环境的影响程度和范围
+3 EIAW 根据环评导则推荐的模式预测计算排放污水对地表水环境的影响程度和范围
+5 EIAProA2008 大气环评
+6 GPS-X 污水处理模拟软件
+7 TOXCHEM 优化污水处理场
+建筑专业和暖通空调专业
+1 TArch 天正建筑CAD软件
+2 TBEC 天正建筑节能分析软件(公建/民住)
+3 THvac 天正暖通设计软件
+4 PDS(PE_HVAC)/SP3D 暖通空调三维设计软件
+5 ACS 采暖、通风计算与设计
+6 AUTOCAD Revit Architecture Suite 建筑设计
+7 Ecotect 生态建筑大师
+8 SketchUp and Piranesi 建筑草图大师与空间彩绘大师，主要应用于3D建筑方案设计。
+储运专业、总图专业、给排水专业
+1 INPLANT 管网水力学计算
+2 PIPENET 流体分析设计软件
+3 消防工程CAD 消防工程CAD
+4 MIS 2000 总图设计与管理信息系统
+5 WCAD 智能化给排水设计绘图软件包。
+6 TWT 天正给排水设计CAD软件
+7 AUTOCAD CIVIL 3D 2008 场地设计
+估算专业
+1 CostManager/ PCCS 费用控制软件
+2 中国石化工程建设概、预算软件系统 概算编制
+3 中国石油建设安装工程概、预算软件系统 中国石油建设安装工程概、预算
+4 钢筋抽样软件GGJ 钢筋抽样计算
+项目管理专业
+1 STAT 任务分派与检测统计系统
+2 Microsoft Project
+Primavera P3 进度控制
+Primavera P3e/c
+3 Primavera Contract Manager (Expedition) 商务、合同管理
+4 SmartPlant RD / SmartPlant Materials
+PRM 材料与采购管理
+PMCS
+5 ACCPAC 工程财务管理
+SAP FI/CO
+PFCM
+6 Documentum 项目电子文档管理系统
+7 PMCV 施工费用与进度检测
+8 IPMS 综合采购管理软件
+9 Pertmaster 风险分析软件
+10 RMIS 风险管理协同软件
+制造管理控制：
+runtime嵌入式，无代码与自动化，编程+平面设计，编程+建模etc
+面向过程：抢占开发，低代码平台，入门开发。
+面向对象：小中高巨型软件。
+面向服务：分布式系统（服务间调用慢，请求响应慢，整体结构不易理解）
+分布式事务，分布式锁，分布式session，数据一致，中间件，接口，文件服务器，数据库，缓存，安全，微服务。
+？：嵌入开发
+很多硬件行业的IDE软件本质上是一个GUI壳，背后是由许许多多的小软件组成的，例如Quartus II的综合器其实是quartus_map这个命令行工具。只是Quartus II这个GUI把他封装了一下，方便FPGA开发工程师使用。
