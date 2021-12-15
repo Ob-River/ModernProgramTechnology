@@ -1,0 +1,149 @@
+﻿Map Initialization 地图初始化
+Destructible Doodad - Destructible Doodad Dies 可破坏物体被摧毁
+Destructible Doodad - Within Region Dies 在区域中被摧毁
+Dialog - Dialog Button Click 按下对话按钮
+Game - Time Of Day 游戏世界时间
+Game - Value Of Real Variable 实数变量Real数值
+Game - Load 读取
+Game - Save 保存
+Game - Hero Abilities Button Clicked 按下英雄升级技能按钮
+Game - Build Structure Button Clicked 按下建造按钮
+Player - Chat Message 聊天信息
+Player - Cinematic Skipped 跳过电影
+Player - Selection Event 选择事件
+Player - Keyboard Event 键盘事件
+Player - Properties 资源
+Player - Alliance Change(Any) 同盟改变 (任意)
+Player - Alliance Change(Specific) 同盟改变 (指定)
+Player - Victory 胜利
+Player - Defeat 失败
+Time - Time Elapsed 时间经过
+Time - Periodic Event 周期性事件
+Time - Timer Expires 计时器过期
+Unit - Specific Unit Event 特定单位事件
+Unit - Player-Owned Unit Event 拥有单位事件
+Unit - Generic Unit Event 一般单位事件
+Unit - Unit Enters Region 单位进入区域
+Unit - Unit Leaves Region 单位离开区域
+Unit - Unit Within Range 单位在范围中
+Unit - Life 生命
+Unit - Mana 法力
+Environment 环境：
+Boolean Comparison 布尔值
+Boolean判断
+Ability Comparison 技能判断
+Destructible Comparison 可破坏物体判断
+Destructible-Type Comparison 可破坏物体类型判断
+Dialog Button Comparison 对话按钮判断
+Game Difficulty Comparison 游戏难度判断
+Game Speed Comparison 游戏速度判断
+Hero Skill Comparison 英雄技能判断
+Integer Comparison 整数判断
+Item Comparison 物品判断
+Item-Class Comparison 物品种类判断
+Item-Type Comparison 物品类型判断
+Melee AI Comparison 多人对战AI判断
+Order Comparison 命令判断
+Player Comparison 玩家判断
+Player Color Comparison 玩家颜色判断
+Player Controller Comparison 玩家控制判断
+Player Slot Status Comparison 玩家在线状态判断
+Race Comparison 种族判断
+Real Comparison 实数判断
+String Comparison 字符串判断
+Tech-Type Comparison 科技类型判断
+Trigger Comparison 触发器判断
+Unit Comparison 单位判断
+Unit-Type Comparison 单位类型判断
+And 与
+Or 或
+And, Multiple Conditions 与，多个条件
+Or, Multiple Conditions 或，多个条件
+Action 动作：
+Common 普通 一些基本的未分类指令
+AI AI 设定计算机控制的单位的自动行为
+Animation 动画 单位所能做出的动作
+Camera 镜头 设定摄像机的位置及改变方式
+Cinematic 电影 设定游戏中即时演算的过场动画
+Countdown Timer 倒数计时器 又称定时器或计时器，用于倒数计时或定时发生事件
+Destructible Doodad 可破坏的 设定可破坏物体的状态
+Dialog 对话 设定对话框的显示/隐藏、标题、按钮、内容及清除
+Environment 环境 设定天气和环境
+Floating Text 飘浮文字 可以飘浮在屏幕上任何位置的文字
+Game 游戏 设定游戏相关属性
+Game Cache 游戏缓存 将对象当前状态储存在文件中，可用于别的地图调用
+Hero 英雄 设定英雄的所有状态
+Item 物品 设定物品的使用及状态
+Leader Board 排行榜 悬浮在右上角的文本框
+Melee Game 对战游戏 设定多人对战游戏的初始状态
+Neutral Building 中立建筑 设定中立建筑的状态
+Player 玩家 设定玩家拥有单位的属性及状态
+Player Group 玩家组 设定玩家组中各个玩家的属性及状态
+Quest 任务 设定任务提示窗口及主次任务
+Region 地区 设定规划区域内触发的事件及环境
+Selection 选择 设定选择选项
+Sound 声音 设定游戏进行中声音的控制
+Special Effect 特效 设定显示特效
+Trigger 触发器 设定触发器的状态
+Unit 单位 设定单位的属性及状态
+Unit Group 单位组 设定单位组的属性及状态
+Visibility 可见 设定区域可见模式
+单位:
+Create Unit Facing Angle 创建单位并指定面向角度 创建单位，并指定其面向角度
+Create Unit Facing Point 创建单位并指定面向点 创建单位，并指定其面向点
+Create Corpse 创建尸体 创建单位的尸体
+Create Permanent Corpse 创建永久的尸体 创建永久存在的尸体
+Kill 杀死 杀死单位
+Remove 移除 从游戏中移除单位
+Explode 爆炸 使单位以炸开形式死亡
+Replace 替换 用一个单位替换现有单位
+Hide 隐藏 隐藏单位
+Unhide 解除隐藏 解除隐藏单位
+Change Color 改变颜色 改变单位颜色，控制权不会改变
+Change Owner 改变所有者 改变单位的所有者
+Shared Vision 分享视野 玩家分享单位的视野
+Move Unit (Instantly) 移动单位 (立即) 让单位瞬间移动到另一位置
+Move Unit And Face Angle (Instantly) 移动单位并指定面向角度 (立即) 让单位瞬间移动到另一位置，并指定面向角度
+Move Unit And Face Point (Instantly) 搬移单位并指定面向点 (立即) 让单位瞬间移动到另一位置，并指定面向点
+Set Life(To Percentage) 设置生命 (百分比) 以百分比方式设置生命值
+Set Mana(To Percentage) 设置法力 (百分比) 以百分比方式设置法力值
+Set Life(To Value) 设置生命 (数值) 设置生命值
+Set Mana(To Value) 设置法力 (数值) 设置法力值
+Make Invulnerable/Vulnerable 成为无敌的/可被攻击的 设定单位为无敌的/可被攻击的状态
+Pause/Unpause 暂停/解除暂停 暂停/解除暂停单位的动作，玩家将不可控制单位
+Pause/Unpause All Unit 暂停/解除暂停所有单位 暂停/解除暂停所有单位的动作，玩家将不可控制单位
+Pause/Unpause Expiration Timer 暂停/解除暂停到期的定时器 暂停/解除暂停到期的定时器
+Add Expiration Timer 增加到期的定时器 增加到期的定时器
+Make Unit Explode On Death 成为爆炸式死亡单位 使单位死亡方式成为以炸开形式死亡
+Suspend Corpse Decay 暂缓尸体腐烂 让尸体腐烂暂缓
+Reset Ability Cooldowns 重设技能冷却 恢复技能冷却到默认值
+Set Building Construction Progress 设置建造建筑物进度 设置建造建筑物所要消耗的时间
+Set Building Upgrade Progress 设置建造升级进度 设置建筑升级所要消耗的时间
+Make Unit Sleep 成为睡眠单位 使单位处于睡眠状态
+Make Unit Sleep At Night 成为夜间睡眠单位 使单位在夜晚的时候处于睡眠状态
+Wake Up 醒来 使睡眠中的单位醒过来
+Turn Alarm Generation On/Off 警戒范围开/关 打开/关闭单位警戒范围
+Rescue Unit 营救单位 设置单位被营救
+Make Rescuable 成为可营救的 设置单位为可营救单位，玩家接触时营救单位将加入玩家阵营
+Set Rescue Range 设置营救范围 设置进入范围后单位即被营救
+Set Rescue Behavior For Units 设置单位营救行为 设置营救后单位颜色是否变化
+Set Rescue Behavior For Buildings 设置建筑营救行为 设置营救后建筑颜色是否变化
+Enable/Disable Supply Usage 开启/关闭人口上限 开启/关闭人口上限
+Make Unit Face Unit 使单位面向单位 使单位面向单位
+Make Unit Face Point 使单位面向地点 使单位面向地点
+Make Unit Face Angle 使单位面向角度 使单位面向角度
+Set Movement Speed 设置移动速度 设置移动单位速度
+Turn Collision On/Off 碰撞开/关 设置单位是否可与别的单位重叠
+Set Acquisition Range 设置获得范围 设置单位的获得物品范围
+Set Custom Value 设置自定义数值 设置自定义数值
+Remove Buffs 移除持续性魔法 移除单位上的持续性魔法
+Remove Buffs By Type 移除持续性魔法类型 按类型移除单位上的持续性魔法
+Add Ability 增加技能 增加单位的技能
+Remove Ability 移除技能 移除单位的技能
+Issue Order Targeting A Unit 当前目标是一个单位的命令 让单位执行目标是单位的命令
+Issue Order Targeting A Point 当前目标是一个点的命令 让单位执行目标是地点的命令
+Issue Order Targeting A Destructible 当前目标是一个可破坏物体的命令 让单位执行目标是可破坏物体的命令
+Issue Order With No Target 没有目标的命令 让单位执行没有目标的命令
+Issue Train/Upgrade Order 训练/升级的命令 执行训练/升级的命令
+Issue Research Order 研究科技的命令 执行研究科技的命令
+Issue Build Order 建造的命令 执行建造的命令
